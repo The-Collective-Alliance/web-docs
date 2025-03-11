@@ -1,0 +1,35 @@
+
+
+@font-face {
+    font-family: Aurebesh;
+    src: url("./aurebesh.otf");
+  }
+  
+@font-face {
+    font-family: Kremlin;
+    src: url("./kremlin.ttf");
+  }
+
+  body {
+    background-position:center;
+    background-image:url(./imgs/background.jpg);
+  }
+
+  div {
+    font-family: Kremlin;
+    color: white;
+  }
+
+  h1 {
+    font-family: Kremlin;
+    color: white;
+  }
+  h2 {
+    font-family: Aurebesh;
+    color: white;
+  }
+
+  p {
+    font-family: sans-serif;
+    color: white;
+  }
